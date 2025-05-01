@@ -3,6 +3,11 @@
 Welcome to **A Cup of Care** — a cozy little café chatbot that’s always here when you need a warm word or virtual hug.  
 Feeling sad, tired, anxious, or just “meh”? Pull up a chair. We’ve got you. 🌸
 
+### [![Render](https://img.shields.io/badge/Deployed%20on-Render-46a2f1?logo=render&logoColor=white)](https://a-cup-of-care.onrender.com)
+
+### 🌸 Live Demo  
+Check it out here → [https://a-cup-of-care.onrender.com](https://a-cup-of-care.onrender.com)
+
 ---
 
 ## 💡 What’s brewing?
